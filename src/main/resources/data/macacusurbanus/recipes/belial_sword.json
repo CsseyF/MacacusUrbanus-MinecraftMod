@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "X",
+      "X",
+      "#"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:stick"
+      },
+      "X": {
+        "item": "minecraft:belial_ingot"
+      }
+    },
+    "result": {
+      "item": "macacusurbanus:belial_sword"
+    }
+  }

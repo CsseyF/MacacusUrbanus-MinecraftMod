@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "macacusurbanus",
+  "version": "${version}",
+
+  "name": "Macacus Urbanus",
+  "description": "Caos, desespero, bananas e guerra",
+  "authors": [
+    "Cssey"
+  ],
+  "contact": {
+    "homepage": "https://twitter.com/cssey_",
+    "sources": ""
+  },
+
+  "license": "CC BY-NC-SA 3.0",
+  "icon": "assets/macacusurbanus/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "Cssey.macacus.urbanus.MacacusUrbanus"
+    ]
+  },
+  "mixins": [
+    "macacusurbanus.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.16.x",
+    "java": ">=16"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
