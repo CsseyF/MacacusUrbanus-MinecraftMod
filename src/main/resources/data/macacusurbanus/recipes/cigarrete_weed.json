@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "macacusurbanus:cigarrete"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "minecraft:oak_leaves"
+      }
+      
+    ],
+    "result": {
+      "item": "macacusurbanus:cigarrete_weed"
+    }
+  }

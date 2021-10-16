@@ -1,0 +1,13 @@
+{
+    "monkey_sound_hurt": {
+      "sounds": [
+        "macacusurbanus:monkey_sound_hurt"
+      ]
+    },
+    "monkey_sound_ambient": {
+      "sounds": [
+        "macacusurbanus:monkey_sound_ambient"
+      ]
+    }
+
+  }

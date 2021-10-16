@@ -5,9 +5,7 @@
 
   "name": "Macacus Urbanus",
   "description": "Caos, desespero, bananas e guerra",
-  "authors": [
-    "Cssey"
-  ],
+  "authors": ["Cssey"],
   "contact": {
     "homepage": "https://twitter.com/cssey_",
     "sources": ""
@@ -18,13 +16,10 @@
 
   "environment": "*",
   "entrypoints": {
-    "main": [
-      "Cssey.macacus.urbanus.MacacusUrbanus"
-    ]
+    "main": ["Cssey.macacus.urbanus.MacacusUrbanus"],
+    "client": ["Cssey.macacus.urbanus.MacacusUrbanusClient"]
   },
-  "mixins": [
-    "macacusurbanus.mixins.json"
-  ],
+  "mixins": ["macacusurbanus.mixins.json"],
 
   "depends": {
     "fabricloader": ">=0.11.3",

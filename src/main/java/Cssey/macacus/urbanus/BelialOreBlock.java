@@ -11,6 +11,7 @@ import net.minecraft.server.world.ServerWorld;
 import net.minecraft.util.math.MathHelper;
 
 
+
 public class BelialOreBlock extends Block {
 
     public BelialOreBlock(Settings settings) {
@@ -30,4 +31,5 @@ public class BelialOreBlock extends Block {
                 }
             }
     }
+    
 }

@@ -1,7 +1,7 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-      "layer0": "macacusurbanus:item/cigarrete"
+      "layer0": "macacusurbanus:item/cigarrete_weed"
     }
   }
   

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " X ",
+      " # ",
+      " Y "
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:paper"
+      },
+      "X": {
+        "item": "minecraft:coal"
+      },
+      "Y": {
+        "item": "minecraft:orange_dye"
+      }
+    },
+    "result": {
+      "item": "macacusurbanus:cigarrete",
+      "count": 3
+    }
+  }

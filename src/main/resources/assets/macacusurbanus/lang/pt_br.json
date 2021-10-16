@@ -1,5 +1,7 @@
 {
     "item.macacusurbanus.cigarrete" : "Cigarro",
+    "item.macacusurbanus.cigarrete_weed" : "Cigarro de maconha",
+    "item.macacusurbanus.cigarrete_tobacco" : "Cigarro de tabaco",
     "item.macacusurbanus.belial_fragment": "Fragmento de Belial",
     "item.macacusurbanus.belial_ingot": "Belial",
     "item.macacusurbanus.belial_ore": "Minério de Belial",
